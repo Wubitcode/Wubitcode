@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Wubit! 
 
-<!--
-**Wubitcode/Wubitcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Student | Developer | Lifelong Learner*
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently a student passionate about mobile web development and AI.  
+💻 Developer focused on building elegant and efficient solutions.  
+✨ Lover of clean code, creative design, and open-source collaboration.  
+📱 Exploring the intersection of **mobile design** and **artificial intelligence**.
+
+## 🛠️ Skills & Interests
+
+- **Languages**: JavaScript, HTML, CSS, Python  
+- **Frameworks/Tools**: Git, VS Code, Adobe XD  
+- **Passions**: Mobile Web Apps, AI-powered tools, UI/UX design  
+- **Exploring**: Prompt engineering, creative coding, and cybersecurity basics  
+
+
+## 🚀 Projects
+
+- [EduBot](https://github.com/Wubitcode/July4_Assignment_3) — AI tutor that helps students learn smarter  
+
+## 🌍 Let's Connect
+
+- 📧 Email: wubit.e@triosstudent.com
+ - 🐙 [GitHub](https://github.com/Wubitcode  
+
+
+© 2025 Wubitcode. All rights reserved.
