@@ -1,6 +1,6 @@
 # Hi, I'm Wubit! 
 
-*Student | Developer | Lifelong Learner*
+*Student | Curious Mind | Lifelong Learner*
 
 ## 💡 About Me
 
