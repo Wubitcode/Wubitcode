@@ -1,4 +1,4 @@
-![Tech Banner](assets/images/banner.gng)
+![Tech Banner](assets/images/banner.png)
 
 🔐 **Cybersecurity Professional** | 💻 **Web Developer** | 🤖 **AI Enthusiast**
 
