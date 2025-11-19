@@ -1,5 +1,5 @@
 👋 Hi, I'm Wubit
-<img width="1142" height="477" alt="banner" src="https://github.com/user-attachments/assets/cf88810f-22e7-40e9-b52f-69cb21809871" />
+
 ![Tech Banner](assets/images/banner.png)
 
 🔐 **Cybersecurity Professional** | 💻 **Web Developer** | 🤖 **AI Enthusiast**
