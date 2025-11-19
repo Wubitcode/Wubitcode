@@ -3,7 +3,7 @@
 🔐 **Cybersecurity Professional** | 💻 **Web Developer** | 🤖 **AI Enthusiast**
 
 
-* Mom | Student | Curious Mind | Lifelong Learner |
+ Curious Mind | Lifelong Learner 
 
   With a background in **Cybersecurity Engineering** and a passion for **modern web development**,  
 I focus on creating secure, intelligent, and user-friendly digital experiences.
@@ -36,11 +36,11 @@ I focus on creating secure, intelligent, and user-friendly digital experiences.
 
 ## 🚀 Projects
 
-- [EduBot](https://github.com/Senacode/July4_Assignment_3) — AI tutor that helps students learn smarter  
+- [EduBot](https://github.com/Wubitcode/July4_Assignment_3) — AI tutor that helps students learn smarter  
 
 ## 🌍 Let's Connect
 
 - 📧 Email: Wubit.e@triosstudent.com
-- 🐙 [GitHub](https://github.com/Senacode)
+- 🐙 [GitHub](https://github.com/Wubitcode)
 
 © 2025 Wubitcode. All rights reserved.
