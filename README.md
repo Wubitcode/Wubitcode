@@ -1,7 +1,7 @@
-
-<img width="1142" height="477" alt="banner" src="https://github.com/user-attachments/assets/0f2057ed-5c34-4916-ae43-73ce60a251bc" />
 👋 Hi, I'm Wubit
 
+
+<img width="1142" height="477" alt="banner" src="https://github.com/user-attachments/assets/0f2057ed-5c34-4916-ae43-73ce60a251bc" />
 
 
 🔐 **Cybersecurity Professional** | 💻 **Web Developer** | 🤖 **AI Enthusiast**
