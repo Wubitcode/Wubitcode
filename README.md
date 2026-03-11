@@ -1,7 +1,7 @@
 👋 Hi, I'm Wubit
 
 
-<img width="1142" height="477" alt="banner" src="https://github.com/user-attachments/assets/0f2057ed-5c34-4916-ae43-73ce60a251bc" />
+<img width="903" height="208" alt="CYBERSHOP" src="https://github.com/user-attachments/assets/3a090b36-f0cf-4162-8e2b-4f95ca44bc05" />
 
 
 🔐 **Cybersecurity Professional** | 💻 **Web Developer** | 🤖 **AI Enthusiast**
